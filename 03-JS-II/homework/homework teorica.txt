@@ -1,0 +1,2 @@
+el bucle for ayuda a repetir un bloque de codigo muchas veces. tiene tres partes: la variable para contar la cantidad de repeticiones que va haciendo. condicion de frenado,para indicar cuando queres que deje de ejecutarse. y el paso que es como queres que se vaya incrementando el valor.
+&& == and .  || == or . ! == not.  son operadores logicos.
