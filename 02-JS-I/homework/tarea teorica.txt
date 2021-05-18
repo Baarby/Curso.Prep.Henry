@@ -1,0 +1,5 @@
+una variable es una forma de almacenar el valor de algo para usar mas tarde.
+string es un tipo de dato que son caracteres que siempre empiezan y terminan con comillas.
+una funcion es la forma mas basica para no escribir codigos de mas. agrupa codigo, lo guarda en un lugar y despues se puede ejecutar. las funciones con argumentos se da cuando se agrega una variable dentro de la misma. despues esta return que se usa cuando queremos devolver algo. al usar return se sale de la funcion.
+el control de flujo nos permite agregar logica al codigo. nos permite poder hacer preguntar y poder ir ejecutando codigos segun ciertas condiciones. ahi es donde entra el if == si 
+boolean es un tipo de dato que puede tener 2 valores posibles: true(verdadero) o false(falso) 
