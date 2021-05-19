@@ -1,0 +1,1 @@
+array: coleccion de elementos ordenados que pueden ser accedidos a traves de un indice. los elementos pueden ser cualquier tipo de dato, y array se define usando [].
