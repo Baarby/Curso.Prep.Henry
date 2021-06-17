@@ -1,0 +1,5 @@
+objetos: es una coleccion de propiedades que puede tener string, numeros, boolean, funciones, arrays.
+propiedad: es una asociacion entre un nombre(o clave) y un valor.
+metodos:Las funciones guardadas en un objeto se denominan métodos.
+bucle for...in: es un segundo bucle for que sirve solo para objeto. recorre todas las propiedades de un objeto.
+dot notation y bracket notation son formas de acceder a las propiedades. en dot notation se usa el punto y no puede ir ninguna variable ni  nada, si o si el nombre de la propiedad. en bracket  notation se usa los corchetes y se lo escribe como string, es similar a un array y puede ir una variable.

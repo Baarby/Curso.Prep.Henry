@@ -96,7 +96,10 @@ function numeroMasGrande(numeros) {
   // "numeros" debe ser una matriz de enteros (int/integers)
   // Devuelve el número más grande
   // Tu código:
+<<<<<<< HEAD
 
+=======
+>>>>>>> ef90e2d9e92fa4becc0b003bbf9f165b5e62c210
   var numgrande = numeros[0]; //10
   for (var i = 1; i < numeros.length; i++) {
     if (numgrande < numeros[i]) {
